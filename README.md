@@ -16,5 +16,5 @@ const config = { <br />
   messagingSenderId: "<Your Messaging Sending ID>"<br />
 };<br />
 </code><br /><br />
-<h3>Run Application </h3<br />
-ionic serve<br />
+  <h3>Run Application </h3><br /> 
+<code>ionic serve</code<br />
